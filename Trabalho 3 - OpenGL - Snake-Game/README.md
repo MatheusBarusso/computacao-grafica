@@ -1,4 +1,4 @@
-# Trabalho Snake - OpenGL
+# Trabalho 3 OpenGL - Snake-Game
 
 Com base no projeto Snake-Game disponível em https://github.com/Rohit-B-Kadam/Snake-Game
 
