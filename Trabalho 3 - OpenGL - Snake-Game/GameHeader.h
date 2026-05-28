@@ -71,7 +71,7 @@ void createObstacles() {
 void initGame()
 {
 	glColor3f(0.0, 0.0, 0.0);
-	snake_size = 5;
+	snake_size = 500;
 	direction = RIGHT;
 	change_x = 11;
 	change_y = 0;

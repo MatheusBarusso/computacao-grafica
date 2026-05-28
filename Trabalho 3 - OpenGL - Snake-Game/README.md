@@ -10,12 +10,14 @@ Com base no projeto Snake-Game disponível em https://github.com/Rohit-B-Kadam/S
 
 # Instruções de Compilação e Inicialização:
 ### Forneça permissão para o script
-``` chmod +x compile.sh ```
+```
+ chmod +x compile.sh 
+ ```
 
 ### Execute com: 
-``` ./compile ```
-
----
+```
+ ./compile 
+ ```
 
 # Alterações realizadas:
 
